@@ -6,10 +6,10 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xmanrui/dsh-weixin.git"
+    "url": "git+https://github.com/1841220388zzzcccxxx-star/dsh-weixin.git"
   },
-  "homepage": "https://github.com/xmanrui/dsh-weixin#readme",
-  "bugs": "https://github.com/xmanrui/dsh-weixin/issues",
+  "homepage": "https://github.com/1841220388zzzcccxxx-star/dsh-weixin#readme",
+  "bugs": "https://github.com/1841220388zzzcccxxx-star/dsh-weixin/issues",
   "publishConfig": {
     "access": "public"
   },
