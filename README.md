@@ -1,6 +1,6 @@
 # dsh-weixin
 
-> v0.1.0 — DeepSeek Harness 微信连接插件
+> v0.1.1 — DeepSeek Harness 微信连接插件
 
 [中文](#中文) · [English](#english)
 

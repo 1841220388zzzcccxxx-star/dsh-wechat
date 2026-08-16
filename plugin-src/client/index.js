@@ -564,4 +564,14 @@ export function apply(ctx) {
     label: '微信',
     inject: () => ({ rpcCall }),
   }, WeixinSettingsTab));
+
+  // Also expose WeChat as a top-level settings entry, directly visible when
+  // opening Settings and placed below the Token Stats section (order 25).
+  ctx.slots.inject('settings.section', () => ctx.slots.register({
+    name: 'settings.section',
+    id: 'weixin',
+    order: 30,
+    label: '微信',
+    inject: () => ({ rpcCall }),
+  }, WeixinSettingsTab));
 }
